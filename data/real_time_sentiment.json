@@ -1,0 +1,66 @@
+{
+  "Reliance": {
+    "average_sentiment": 0.02,
+    "action": "Hold",
+    "headlines": [
+      "Mobix Labs Goes on Offense: Launches Aggressive Acquisition Strategy with Access to $100 Million+",
+      "Quantum BioPharma Announces the Record Date for the Distribution of a Special Dividend of Contingent Value Rights (CVRs) Tied to the Future Litigation Settlement Proceeds of its USD $700 Million+ Case",
+      "Red White \u0026 Bloom Files 2025 Interim Financial Statements",
+      "Copper Road Congratulates Sterling Metals Corp. and Grants Stock Options",
+      "Bluesky Digital Assets Announces ChessGold Inc. Major Milestone"
+    ]
+  },
+  "TCS": {
+    "average_sentiment": 0.05,
+    "action": "Hold",
+    "headlines": [
+      "TCS, Cognizant and 8 others face US Senate heat over H-1B hiring amid mass layoffs",
+      "TCS layoffs severance packages: A detailed breakdown of who may get what as the IT giant cuts 2% of its workforce",
+      "Youth anxiety—what two major public issues reveal about India’s crisis of unemployment",
+      "US Senators To TCS: Why Lay Off Americans While Hiring Thousands On H-1B?",
+      "India’s TCS, Tech Firms to Face Questions Over Trump’s H-1B Visa Shock"
+    ]
+  },
+  "HDFC Bank": {
+    "average_sentiment": 0.02,
+    "action": "Hold",
+    "headlines": [
+      "UK to launch new 15-year bond via syndication in mid-October",
+      "European bond yields seek direction amid dearth of US data",
+      "South Africa sells 1 billion rand of inflation-linked bonds at auction",
+      "Market Wrap: Sensex rises 224 points, Nifty above 24,850 as banks, consumer stocks drive second straight gain",
+      "PNB, 3 other PSU banks raise state bond investment limits: Sources"
+    ]
+  },
+  "Wallet": {
+    "balance": 5000.0,
+    "investments": {}
+  },
+  "RELIANCE": {
+    "average_sentiment": 0.75,
+    "action": "Buy",
+    "headlines": [
+      "Reliance reports strong quarterly growth",
+      "New expansion plans announced",
+      "Positive market outlook for Reliance"
+    ]
+  },
+  "TCS": {
+    "average_sentiment": 0.5,
+    "action": "Hold",
+    "headlines": [
+      "TCS maintains steady performance",
+      "New client acquisitions reported",
+      "Market neutral on TCS"
+    ]
+  },
+  "INFY": {
+    "average_sentiment": -0.2,
+    "action": "Sell",
+    "headlines": [
+      "Infosys faces minor setback",
+      "Market competition intensifies",
+      "Quarterly results below expectations"
+    ]
+  }
+}
